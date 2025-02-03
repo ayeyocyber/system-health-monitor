@@ -9,22 +9,22 @@ This is a Python script that monitors system health, including CPU, RAM, and dis
 
 # Installation:
 
-# 1. Clone the Repository-
-for bash
+# 1. Clone the Repository
+
 ```
 git clone https://github.com/ayeyocyber/system-health-monitor.git
 cd system-health-monitor
 ```
-# 2. Install Dependencies-
+# 2. Install Dependencies
 have Python installed then run:
-for bash
+
 ```
 pip3 install psutil
 ```
 
 # How to use
 Run the script using:
-for bash
+
 ```
 python3 system_health_monitor.py
 ```
