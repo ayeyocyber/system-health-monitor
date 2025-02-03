@@ -16,7 +16,7 @@ def main():
     try:
         while True:
             get_system_health()
-            time.sleep(2)  # Refresh every 2 seconds
+            time.sleep(5)  # Refresh every 5 seconds
     except KeyboardInterrupt:
         print("Monitoring Stopped.")
 
