@@ -19,13 +19,13 @@ cd system-health-monitor
 have Python installed then run:
 for bash
 ```
-pip install psutil
+pip3 install psutil
 ```
 
 # How to use
 Run the script using:
 for bash
 ```
-python system_health_monitor.py
+python3 system_health_monitor.py
 ```
 Press "Ctrl+C" to stop monitoring.
